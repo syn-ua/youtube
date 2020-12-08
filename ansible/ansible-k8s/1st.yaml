@@ -1,0 +1,5 @@
+---
+- name: 1st movement
+  hosts: k8s_cluster
+  roles:
+    - 1st
